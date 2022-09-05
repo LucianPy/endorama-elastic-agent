@@ -1,0 +1,26 @@
+version: next
+entries:
+    - kind: feature
+      summary: A great feature that will make users happy
+      description: ""
+      component: ""
+      pr:
+        - 2
+      issue: []
+      repository: ""
+      timestamp: 1661953483
+      file:
+        name: 1661953483-A-great-feature.yaml
+        checksum: 6a33b3ab5a34d38d142f470d959428d382c18360
+    - kind: bug-fix
+      summary: A bugfix
+      description: ""
+      component: ""
+      pr:
+        - 3
+      issue: []
+      repository: ""
+      timestamp: 1661953659
+      file:
+        name: 1661953659-A-bugfix.yaml
+        checksum: fafce7f9e5f6e797706580d634d2c8fca2371427

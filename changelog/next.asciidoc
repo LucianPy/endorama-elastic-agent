@@ -1,0 +1,30 @@
+// begin next relnotes
+
+[[release-notes-next]]
+== {agent} next
+
+// TODO: support multiple components
+Review important information about the {agent} next release.
+
+
+
+
+
+[discrete]
+[[new-features-next]]
+=== New features
+
+The next release adds the following new and notable features.
+
+{agent}::
+* A Great Feature That Will Make Users Happy. {agent-pull}2[#2] 
+
+
+[discrete]
+[[bug-fixes-next]]
+=== Bug fixes
+
+{agent}::
+* A Bugfix. {agent-pull}3[#3] 
+
+// end next relnotes
