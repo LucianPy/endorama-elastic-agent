@@ -1,0 +1,32 @@
+// begin 0.4.0 relnotes
+
+[[release-notes-0.4.0]]
+== agent AND beats 0.4.0
+
+// TODO: support multiple components
+Review important information about the agent AND beats 0.4.0 release.
+
+
+
+
+
+
+
+
+[discrete]
+[[bug-fixes-0.4.0]]
+=== Bug fixes
+
+agent AND beats::
+agent
+
+
+* Add Config Capabilities For Owner And Repository. {agent-pull}https://github.com/elastic/elastic-agent-changelog-tool/pull/114[#https://github.com/elastic/elastic-agent-changelog-tool/pull/114] {agent-issue}https://github.com/elastic/elastic-agent-changelog-tool/issues/88[#https://github.com/elastic/elastic-agent-changelog-tool/issues/88]
+* 333333312321.  
+beats
+
+
+* 2.  
+* 43132231213321.  
+
+// end 0.4.0 relnotes
